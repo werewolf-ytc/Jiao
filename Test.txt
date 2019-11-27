@@ -2,3 +2,7 @@ Initial value =1;
 Now the value is 2;
 New value is 3;
 Is this branch "div"?
+
+Test.
+If you want to save this change without affecting master.
+You need to add and commit dev branch.
